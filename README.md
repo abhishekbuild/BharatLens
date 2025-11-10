@@ -1,6 +1,6 @@
 # 🌏 BharatLens
 
-**BharatLens** is an AI-powered platform designed to explore and understand global geopolitics through **India’s perspective**.  
+**BharatLens** is a AI-powered multimodal RAG platform designed to explore and understand global geopolitics through **India’s perspective**.  
 It provides clear, insightful responses that help users grasp the **strategic, economic, and cultural dimensions** of international affairs.  
 
 Whether it’s analyzing global events, interpreting diplomatic trends, or contextualizing policies, BharatLens offers an **India-centered lens** to view the world.
